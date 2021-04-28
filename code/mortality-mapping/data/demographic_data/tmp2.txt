@@ -1,0 +1,62 @@
+Mississippi
+['Hinds County']
+Virginia
+['Albemarle County', 'Charlottesville city']
+Colorado
+['Denver County', 'Adams County', 'Arapahoe County']
+California
+['San Francisco County', 'Sacramento County', 'Los Angeles County', 'Santa Clara County', 'San Diego County', 'Orange County']
+Utah
+['Salt Lake County']
+Nevada
+['Clark County', 'Washoe County']
+Missouri
+['Jackson County', 'St. Louis County', 'St. Louis city', 'Clay County']
+Indiana
+['Lake County', 'Porter County', 'LaPorte County']
+Arizona
+['Pima County', 'Maricopa County']
+Ohio
+['Cuyahoga County', 'Hamilton County', 'Franklin County', 'Summit County', 'Warren County']
+Oregon
+['Multnomah County']
+New Jersey
+['Middlesex County', 'Essex County']
+Minnesota
+['Hennepin County']
+Massachusetts
+['Suffolk County']
+Florida
+['Sumter County', 'Alachua County', 'Lake County', 'Pinellas County', 'Hillsborough County', 'Miami-Dade County', 'Marion County', 'Broward County', 'Orange County']
+Pennsylvania
+['Allegheny County', 'Philadelphia County']
+Washington
+['King County']
+Georgia
+['DeKalb County']
+Illinois
+['Cook County', 'Peoria County']
+Tennessee
+['Davidson County', 'Knox County', 'Sevier County', 'Blount County', 'Shelby County']
+Texas
+['Dallas County', 'Bexar County', 'Travis County', 'Harris County']
+North Carolina
+['Johnston County', 'Forsyth County', 'Wake County', 'Cumberland County', 'Mecklenburg County', 'Hoke County']
+Kentucky
+['Fayette County', 'Clark County']
+Arkansas
+['Pulaski County']
+Maryland
+['Baltimore city']
+New York
+['Bronx County', 'Monroe County', 'New York County']
+South Carolina
+['Anderson County', 'Charleston County', 'Richland County']
+New Mexico
+['Bernalillo County']
+Louisiana
+['Orleans Parish', 'Jefferson Parish']
+Michigan
+['Washtenaw County', 'Kent County']
+Alabama
+['Madison County', 'Jefferson County']
